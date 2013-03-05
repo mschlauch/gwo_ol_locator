@@ -36,7 +36,7 @@ function ol_locator_field_default_fields() {
       'locked' => '0',
       'module' => 'text',
       'settings' => array(),
-      'translatable' => '0',
+      'translatable' => '1',
       'type' => 'text_with_summary',
     ),
     'field_instance' => array(
